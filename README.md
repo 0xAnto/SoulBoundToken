@@ -12,4 +12,4 @@ git clone https://github.com/x-4nto/SoulBoundToken.git && cd SoulBoundToken && n
 ###### npx hardhat node
 ###### npx hardhat run scripts/deploy.ts
 
-### WAGMI
+### Connect on Twitter https://twitter.com/0xAnto
