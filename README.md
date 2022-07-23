@@ -6,10 +6,10 @@ Soulbound tokens are non-transferable, publicly-verifiable digital tokens that c
 git clone https://github.com/x-4nto/SoulBoundToken.git && cd SoulBoundToken && npm install
 
 ### Hardhat Commends
-####### npx hardhat help
-####### npx hardhat test
-####### GAS_REPORT=true npx hardhat test
-####### npx hardhat node
-####### npx hardhat run scripts/deploy.ts
+###### npx hardhat help
+###### npx hardhat test
+###### GAS_REPORT=true npx hardhat test
+###### npx hardhat node
+###### npx hardhat run scripts/deploy.ts
 
 *Feel free to modify
